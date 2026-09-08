@@ -1,7 +1,7 @@
-## Tool Version Check — Tue Sep  8 10:54:14 UTC 2026
+## Tool Version Check — Tue Sep  8 16:18:12 UTC 2026
 
 | subfinder | v2.16.0 |
-| httpx | v1.11.0 |
+| httpx | v1.12.0 |
 | nuclei | v3.11.1 |
 | ffuf | unknown |
 | dalfox | unknown |
