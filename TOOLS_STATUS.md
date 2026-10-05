@@ -1,4 +1,4 @@
-## Tool Version Check — Mon Oct  5 04:48:14 UTC 2026
+## Tool Version Check — Mon Oct  5 14:01:41 UTC 2026
 
 | subfinder | v2.16.0 |
 | httpx | v1.12.0 |
@@ -7,6 +7,6 @@
 | dalfox | unknown |
 | gau | unknown |
 | waybackurls | unknown |
-| katana | v1.7.0 |
+| katana | v1.8.0 |
 | naabu | v2.6.1 |
 | dnsx | v1.3.1 |
