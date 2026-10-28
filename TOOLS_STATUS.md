@@ -1,4 +1,4 @@
-## Tool Version Check — Wed Oct 28 04:47:51 UTC 2026
+## Tool Version Check — Wed Oct 28 12:23:44 UTC 2026
 
 | subfinder | v2.17.0 |
 | httpx | v1.12.0 |
@@ -8,5 +8,5 @@
 | gau | unknown |
 | waybackurls | unknown |
 | katana | v1.8.0 |
-| naabu | v2.6.1 |
+| naabu | v2.7.0 |
 | dnsx | v1.3.1 |
